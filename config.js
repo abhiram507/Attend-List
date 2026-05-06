@@ -7,7 +7,7 @@
 // ================================================================
 
 // Paste your Google Apps Script Web App URL here:
-window.APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbz4Bqp33Z0PQUV1AicfncWJAW6-aKoQGW2UHB7ClM5cNSZfNCjSDB06AEBeD13PgZFjQw/exec';
+window.APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbxq2vx0wxNbH-TG_wM59x14Pg0EBAWqZvOytogMPEH8DCYIV10uZXI0HA_KJ9gATwth/exec';
 
 // ── Project identity (must match Code.gs CONFIG) ──────────────────
 window.INTERNSHIP_PROJECT_NAME = 'Java Full Stack Short Term Internship';
